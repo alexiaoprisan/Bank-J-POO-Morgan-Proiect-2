@@ -1,6 +1,6 @@
 #### Oprișan Alexia-Ioana, 324CA
 
-# Project Assignment POO - J. POO Morgan - Phase One
+# Project Assignment POO - J. POO Morgan
 
 ### READ ME
 
